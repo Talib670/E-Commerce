@@ -1,0 +1,81 @@
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb
+D:\Office Absol\ABC\New Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csprojAssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CopyComplete
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CopyComplete
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.deps.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ABC.Customer.Domain.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.AssemblyReference.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfoInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.AssemblyInfo.cs
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.csproj.CopyComplete
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ref\ABC.Customer.Domain.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.Domain\obj\Debug\net5.0\ABC.Customer.Domain.pdb

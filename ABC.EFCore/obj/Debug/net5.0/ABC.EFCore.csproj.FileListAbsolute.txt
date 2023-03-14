@@ -1,0 +1,90 @@
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache
+D:\Office Absol\ABC\New Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csprojAssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.AssemblyReference.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.deps.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.runtimeconfig.dev.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ref\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.AssemblyReference.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfoInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.AssemblyInfo.cs
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ref\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.EFCore\obj\Debug\net5.0\ABC.EFCore.genruntimeconfig.cache

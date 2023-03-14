@@ -1,0 +1,52 @@
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.Shared.deps.json
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ref\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\bin\Release\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ref\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Shared\obj\Release\net5.0\ABC.Shared.genruntimeconfig.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.Shared.deps.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ref\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\bin\Release\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ref\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Shared\obj\Release\net5.0\ABC.Shared.genruntimeconfig.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.Shared.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.Shared.runtimeconfig.dev.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.Shared.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ref\ABC.Shared.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.Shared.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\bin\Release\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.csproj.CopyComplete
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ref\ABC.Shared.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Shared\obj\Release\net5.0\ABC.Shared.genruntimeconfig.cache

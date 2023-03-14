@@ -1,0 +1,356 @@
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\POS\AbcPos 23-09-2021\New Onion\Source\ABC.Shared\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csprojAssemblyReference.cache
+D:\Office Absol\ABC\New Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Humanizer.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\MailKit.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\MimeKit.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\YamlDotNet.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.AssemblyReference.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+C:\OsmanAmjad\Project Code\ABC Discounts\New Structure Code\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Humanizer.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\MailKit.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\MimeKit.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.AssemblyReference.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+D:\Office Absol\ABC\New Code Structure\ABCDiscountsCleanCode\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Humanizer.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\MailKit.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\MimeKit.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.dll
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.pdb
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Office Absol\ABC\New Code Structure\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\appsettings.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.exe
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.deps.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.runtimeconfig.dev.json
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Customer.API.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.EFCore.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\bin\Debug\net5.0\ABC.Shared.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.AssemblyReference.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfoInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.AssemblyInfo.cs
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CoreCompileInputs.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.Manifest.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\staticwebassets\ABC.Customer.API.StaticWebAssets.xml
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\scopedcss\bundle\ABC.Customer.API.styles.css
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.RazorTargetAssemblyInfo.cache
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.csproj.CopyComplete
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ref\ABC.Customer.API.dll
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.pdb
+C:\Users\lalam\OneDrive\Documents\ABC\ABC.Customer.API\obj\Debug\net5.0\ABC.Customer.API.genruntimeconfig.cache

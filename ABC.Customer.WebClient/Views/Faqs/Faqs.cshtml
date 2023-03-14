@@ -1,0 +1,189 @@
+﻿
+@{
+    ViewBag.Title = "Faqs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    h2 {
+        font-family: Arial, Verdana;
+        font-weight: 800;
+        font-size: 2.5rem;
+        color: #091f2f;
+        text-transform: uppercase;
+    }
+
+    .accordion-section .panel-default > .panel-heading {
+        border: 0;
+        background: #f4f4f4;
+        padding: 0;
+    }
+
+    .accordion-section .panel-default .panel-title a {
+        display: block;
+        color:#555;
+        text-transform:uppercase;
+        font-weight:bold;
+        font-size: 22px;
+    }
+
+        .accordion-section .panel-default .panel-title a:after {
+            font-family: 'FontAwesome';
+            font-style: normal;
+            font-size: 3rem;
+            content: "\f106";
+            color: #555;
+            float: right;
+            margin-top: -12px;
+        }
+
+        .accordion-section .panel-default .panel-title a.collapsed:after {
+            content: "\f107";
+        }
+
+    .accordion-section .panel-default .panel-body {
+        font-size: 1.2rem;
+    }
+</style>
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="@Url.Action("Index","Home",new{@area="Home"})">Home</a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">FAQs</li>
+        </ol>
+    </nav>
+    <!-- //inner banner -->
+    <!-- FAQ-help-page -->
+
+    <br />
+
+
+    <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
+        <div class="container">
+
+            <h2>Frequently Asked Questions </h2>
+            <br />
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading0">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse0" aria-expanded="true" aria-controls="collapse0">
+                                Corona Virus: Is it safe to buy groceries online and get deliveries?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading0">
+                        <div class="panel-body px-3 mb-4">
+                            <p>Yes, we at ABC Discount have taken stringent measures to ensure that all our grocery handling and delivery personnel follow WHO guidelines to ensure your safety</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading1">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                What is Grocery Delivery?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+                        <div class="panel-body px-3 mb-4">
+                            <p>We recognize that not everyone can get out to get their groceries especially during the lockdown and social distancing so we’re bringing the groceries to you! Grocery delivery allows our customers to select a delivery window and have their groceries delivered right to their door.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading2">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                                Will you deliver to buildings?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+                        <div class="panel-body px-3 mb-4">
+                            <p>Yes. We will deliver your groceries to your home, whether you live in an apartment or a house. Where permitted, in an apartment building, we will deliver to your suite. If that is not possible, you will be asked to meet the driver in the lobby of your building.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading3">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                                What is the Grocery Delivery fee?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+                        <div class="panel-body px-3 mb-4">
+                            <p>The fee is Rs 100 for processing, handling, and delivering your orders straight to your doorstep</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading4">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                                Is there a minimum order amount for Grocery Delivery?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+                        <div class="panel-body px-3 mb-4">
+                            <p>Yes, the minimum order amount is Rs $500.00 before tax.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading5">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                                What is Express Delivery?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+                        <div class="panel-body px-3 mb-4">
+                            <p>We do provide same-day delivery for orders containing essential items (Milk, Bread, Eggs, Baby diapers, Veggies, and Fruits, etc) if the order is placed before 4pm. There will be an additional delivery fee of Rs:100 if the order amount is less than Rs:$2000</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading6">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                                Is there a minimum order amount for Grocery Delivery?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+                        <div class="panel-body px-3 mb-4">
+                            <p>Yes, the minimum order amount is Rs $500.00 before tax.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading p-3 mb-3" role="tab" id="heading7">
+                        <h3 class="panel-title">
+                            <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
+                                What is your delivery coverage area?
+                            </a>
+                        </h3>
+                    </div>
+                    <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+                        <div class="panel-body px-3 mb-4">
+                            <p>We currently deliver in USA ONLY</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+</div>

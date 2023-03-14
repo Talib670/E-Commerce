@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ABC.EFCore.Repository.Edmx.Product>
+    @{
+        ViewData["Title"] = "Index";
+        Layout = "~/Views/Shared/_CustomerLayout.cshtml";
+    }
+    <style>
+        .card-body .btn {
+            min-width: 45%;
+        }
+
+        .card-body .row .col-md-4 {
+            text-align: -webkit-center;
+        }
+    </style>
+    <div class="container my-3">
+        <div class="p-2">
+            <h1 class="text-center">Our Top Products</h1>
+        </div>
+        <br />
+        <div class="card">
+            <div class="card-header">
+                <div class="mt-2">
+                    <h1 class="text-center">Cigratte</h1>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+
+                    @{ var i = 0; }
+                    @if (Model != null)
+                    {
+                        @foreach (var item in Model)
+                        {
+                            i = i + 1;
+                                <div class="col-md-4">
+                                    <img src="~/images/india-ranked-5th-in-pictorial-warnings-on-cigarette-packets.jpg" height="120" width="150" alt="">
+                                    <h5 class="py-2">@item.Name</h5>
+                                    <h6 class="py-2"><b>$@item.Retail</b></h6>
+                                    <div>
+                                        <a href="@Url.Action("ProductDetailsForCustomers", "CustomerHomePage", new { @area = "Customer", id = item.Id })" class="btn btn-primary">View Detail</a>
+                                    </div>
+                                </div>
+                            }
+                        }
+
+                    
+
+                </div>
+            </div>
+        </div>
+        <br />
+        @*<div class="card">
+            <div class="card-header">
+                <div class="p-2">
+                    <h1 class="text-center">Cigar</h1>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+
+
+                    @{ var j = 0; }
+                    @if (Model != null)
+                    {
+                        @foreach (var item in Model)
+                        {
+                            j = j + 1;
+
+                            @if (item.CategoryName == "Store Samples")
+                            {
+                    <div class="col-md-4">
+                        <img src="~/images/india-ranked-5th-in-pictorial-warnings-on-cigarette-packets.jpg" height="120" width="150" alt="">
+                        <h5 class="py-2">@item.Name</h5>
+                        <h6 class="py-2">@item.UnitCharge</h6>
+                        <div>
+                            <a href="@Url.Action("ProductDetailsForCustomers", "CustomerHomePage", new { @area = "Customer", id = item.Id })" class="btn btn-primary">Add to Cart</a>
+                        </div>
+                    </div>
+                            }
+                        }
+
+                    }
+                </div>
+            </div>
+        </div>*@
+    </div>
+

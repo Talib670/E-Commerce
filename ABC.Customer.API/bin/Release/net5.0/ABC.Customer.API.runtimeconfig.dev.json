@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ab-sol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ab-sol\\.nuget\\packages"
+    ]
+  }
+}
